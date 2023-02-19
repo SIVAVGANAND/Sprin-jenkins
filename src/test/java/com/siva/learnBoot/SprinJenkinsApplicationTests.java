@@ -13,6 +13,7 @@ class SprinJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executing...");
+		logger.info("eager to see the changes in repo");
 		assertEquals(true, true);
 	}
 	

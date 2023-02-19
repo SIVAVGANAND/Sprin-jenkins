@@ -17,6 +17,7 @@ public class SprinJenkinsApplication {
 		// TODO Auto-generated method stub
 		
 		logger.info("Application started");
+		logger.info("after some changes....");
 
 	}
 	
